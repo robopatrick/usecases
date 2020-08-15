@@ -1,0 +1,666 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1449px) {
+
+.robot-img img {
+	max-width: 100%;
+	margin-left: 0;
+	margin-top: 52px;
+} 
+.hero-btn-bg {
+	top: 132px;
+	width: 100%;
+	margin-left: 0;
+	left: 0;
+}
+  
+    
+    
+    
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+    
+.signle-rs-sldier-inner {
+
+	height: 460px;
+}
+    
+    
+.fts-inner {
+	height: 189px;
+}
+.fts-inner p {
+	
+	font-size: 15px;
+	line-height: 18px;
+	
+} 
+    
+.hero-btn-bg {
+	top: 132px;
+	width: 100%;
+	margin-left: 0;
+	left: 0;
+}
+    
+    
+.robot-img img {
+	max-width: 100%;
+	margin-left: 0;
+	margin-top: 52px;
+} 
+  
+.border-blk img {
+
+	width: 659px;
+}  
+    
+.border-2-blk img {
+	width: 609px;
+}  
+.rt-round-img {
+	margin-top: -53px;
+	margin-left: -10px;
+}
+.r-left p {
+	font-size: 24px;
+	line-height: 27px;
+	color: #fff;
+	font-weight: 300;
+}  
+.r-left h5 {
+	font-size: 13px;
+	
+}
+.section-title h2 {
+	font-size: 48px;
+
+	line-height: 50px;
+	font-weight: 800;
+	padding: 0 20px;
+}  
+.ft-ico img {
+	height: 62px;
+} 
+.ft-ico {
+	height: 81px;
+
+} 
+.mdl-title h2 {
+	font-size: 48px;
+	color: #002642;
+	font-weight: 800;
+	padding: 0 42px;
+	margin: 0;
+	line-height: 43px;
+}
+.signle-rb-box-wrp h2 {
+	font-size: 28px;
+	line-height: 27px;
+
+}  
+.footer-top-action-content-blk {
+	padding-right: 50px;
+}   
+.ac-text-inner h4 {
+	color: #fff;
+	font-size: 17px;
+	margin: 0;
+	font-family: 'Proxima Nova Bl';
+	line-height: 21px;
+	font-weight: 800;
+}  
+.footer-action-box {
+	
+	padding: 26px;
+	
+}
+.rs-texts p {
+	font-size: 15px;
+
+	line-height: 22px;
+} 
+.rs-img {
+	height: 263px;
+
+}
+.border-blk p {
+	font-size: 23px;
+
+	line-height: 32px;
+	
+}
+    
+    
+}
+
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+.single-list-item-blk ul li {
+	color: #fff;
+	font-size: 16px;
+	position: relative;
+	padding-left: 29px;
+	margin-bottom: 13px;
+}
+
+    
+.fts-inner {
+	height: 150px;
+}
+ 
+   .hero-btn-bg {
+	top: 132px;
+	width: 100%;
+	margin-left: 0;
+	left: 0;
+} 
+.robot-img img {
+	max-width: 100%;
+	margin-left: 0;
+	margin-top: 52px;
+} 
+  
+.border-blk img {
+
+	width: 659px;
+}  
+    
+.border-2-blk img {
+	width: 609px;
+}  
+.rt-round-img {
+	margin-top: 20px;
+	margin-left: 0;
+	margin-bottom: 20px;
+}
+.r-left p {
+	font-size: 24px;
+	line-height: 27px;
+	color: #fff;
+	font-weight: 300;
+}  
+.r-left h5 {
+	font-size: 13px;
+	
+}
+.section-title h2 {
+	font-size: 36px;
+
+	line-height: 39px;
+	font-weight: 800;
+	padding: 0 20px;
+} 
+.ft-ico img {
+	height: 52px;
+}
+.ft-ico {
+	height: 63px;
+}
+.mdl-title h2 {
+	font-size: 36px;
+	color: #002642;
+	font-weight: 800;
+	padding: 0 42px;
+	margin: 0;
+	line-height: 36px;
+}
+.signle-rb-box-wrp h2 {
+	font-size: 28px;
+	line-height: 27px;
+
+}  
+.footer-top-action-content-blk {
+	padding-right: 50px;
+}   
+.ac-text-inner h4 {
+	color: #fff;
+	font-size: 17px;
+	margin: 0;
+	font-family: 'Proxima Nova Bl';
+	line-height: 21px;
+	font-weight: 800;
+}  
+.footer-action-box {
+	
+	padding: 26px;
+	
+}
+.rs-texts p {
+	font-size: 15px;
+
+	line-height: 22px;
+} 
+.rs-img {
+	height: 263px;
+
+}
+.border-blk p {
+	font-size: 23px;
+
+	line-height: 32px;
+	
+}
+.site-menu ul li a {
+	
+	padding: 19px 15px;
+
+} 
+    
+.main-content-inner-blk {
+
+	padding: 0 0px;
+} 
+.r-left {
+	padding-right: 0;
+	text-align: center;
+}
+.rt-round-img {
+	width: 100%;
+}   
+.single-rs-blk::after {
+
+	display: none;
+}
+    
+.rs-img {
+	height: auto;
+}
+.single-rs-blk {
+	text-align: center;
+} 
+.rs-img {
+	margin-bottom: 20px;
+}  
+.fts-inner {
+	
+	padding: 10px;
+	
+}
+  
+.fts-inner p {
+	
+	font-size: 14px;
+	line-height: 16px;
+	
+}  
+.rob-box p {
+
+	font-size: 25px;
+
+}
+.signle-rb-box {
+	margin-bottom: 25px;
+} 
+.signle-rb-box-wrp {
+	height: auto;
+}
+.call-to-action-blkk .section-title h2 {
+	font-size: 36px;
+	line-height: 36px;
+	padding: 0;
+	margin-bottom: 0;
+} 
+    
+.actionb-btn-call a {
+
+	font-size: 13px;
+
+	width: 144px;
+
+	margin-left: 12px;
+}
+.actionb-btn-call {
+	width: 460px;
+} 
+.rs-slider-texts h4 {
+	
+	font-size: 22px;
+
+}
+.rs-slider-texts p {
+	
+	font-size: 13px;
+}
+    
+}
+ 
+
+/* SM Small Device :320px. */
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+
+.rs-slider-texts h4 {
+	
+	font-size: 22px;
+
+}
+.rs-slider-texts p {
+	
+	font-size: 13px;
+}
+    .reson-area {
+	padding: 50px 0;
+}
+    
+.fts-inner {
+	height: 140px;
+}
+    
+.site-inner-contnet-blk {
+	padding-bottom: 33px;
+}
+    
+
+.hero-btn-bg {
+	display: none;
+}
+    
+.robot-img img {
+	max-width: 100%;
+	margin-left: 0;
+	margin-top: 52px;
+} 
+  
+.border-blk img {
+
+	width: 659px;
+}  
+    
+.border-2-blk img {
+	width: 609px;
+}  
+.rt-round-img {
+	margin-top: 20px;
+	margin-left: 0;
+	margin-bottom: 20px;
+}
+.r-left p {
+	font-size: 24px;
+	line-height: 27px;
+	color: #fff;
+	font-weight: 300;
+}  
+.r-left h5 {
+	font-size: 13px;
+	
+}
+.section-title h2 {
+	font-size: 36px;
+	line-height: 39px;
+	font-weight: 800;
+	padding: 0 20px;
+} 
+.ft-ico img {
+	height: 52px;
+}
+.ft-ico {
+	height: 63px;
+}
+.mdl-title h2 {
+	font-size: 30px;
+	color: #002642;
+	font-weight: 800;
+	padding: 0 0px;
+	margin: 0;
+	line-height: 32px;
+}
+.signle-rb-box-wrp h2 {
+	font-size: 28px;
+	line-height: 27px;
+
+}  
+.footer-top-action-content-blk {
+	padding-right: 50px;
+}   
+.ac-text-inner h4 {
+	color: #fff;
+	font-size: 17px;
+	margin: 0;
+	font-family: 'Proxima Nova Bl';
+	line-height: 21px;
+	font-weight: 800;
+}  
+.footer-action-box {
+	
+	padding: 26px;
+	
+}
+.rs-texts p {
+	font-size: 15px;
+
+	line-height: 22px;
+} 
+.rs-img {
+	height: 263px;
+
+}
+.border-blk p {
+	font-size: 20px;
+	line-height: 30px;
+}
+.site-menu ul li a {
+	
+	padding: 19px 15px;
+
+} 
+    
+.main-content-inner-blk {
+
+	padding: 0 0px;
+} 
+.r-left {
+	padding-right: 0;
+	text-align: center;
+}
+.rt-round-img {
+	width: 100%;
+}   
+.single-rs-blk::after {
+
+	display: none;
+}
+    
+.rs-img {
+	height: auto;
+}
+.single-rs-blk {
+	text-align: center;
+} 
+.rs-img {
+	margin-bottom: 20px;
+}  
+.fts-inner {
+	
+	padding: 10px;
+	
+}
+  
+.fts-inner p {
+	
+	font-size: 14px;
+	line-height: 16px;
+	
+}  
+.rob-box p {
+
+	font-size: 25px;
+
+}
+.signle-rb-box {
+	margin-bottom: 25px;
+} 
+.signle-rb-box-wrp {
+	height: auto;
+}
+.call-to-action-blkk .section-title h2 {
+	font-size: 36px;
+	line-height: 36px;
+	padding: 0;
+	margin-bottom: 0;
+} 
+    
+.actionb-btn-call a {
+	font-size: 13px;
+	width: 124px;
+	margin-right: 12px;
+	margin-left: auto;
+	padding: 14px 19px;
+	margin-top: 15px;
+}
+.actionb-btn-call {
+	width: auto;
+} 
+.ex-padding {
+	padding: 0 0;
+}
+.signle-box-item {
+	max-width: 100%;
+	-webkit-box-flex: 0;
+	-ms-flex: 0 0 100%;
+	flex: 0 0 100%;
+	margin-bottom: 25px;
+}
+    
+   
+
+.site-menu-wrp {
+  position: fixed;
+  width: 280px;
+  height: 100%;
+  top: 0;
+  z-index: 99;
+  background: #fff;
+  left: -100%;
+  padding: 30px;
+  display: block;
+  -webkit-transition: .3s;
+  transition: .3s;
+}
+.site-menu ul li a {
+  color: #000;
+  display: block;
+  border-bottom: 1px solid #ddd;
+  padding: 13px 0px;
+}
+.site-menu ul li {
+  display: block;
+}
+.site-menu {
+  margin-right: 0;
+}
+.header-action-btn a {
+  background: #fd730c;
+} 
+    
+.site-menu-wrp.activee {
+	left: 0;
+} 
+    .menu-close {
+	position: absolute;
+	right: 13px;
+	top: 8px;
+	font-size: 20px;
+	width: 20px;
+	text-align: center;
+	cursor: pointer;
+	z-index: 99;
+}
+  .header-top-right-action-btn {
+	text-align: center;
+	margin-top: 18px;
+}  
+.header-top-right-action-btn a {
+	background: #fd730c;
+}
+.footer-single-widget {
+	max-width: 50%;
+	-webkit-box-flex: 0;
+	-ms-flex: 0 0 50%;
+	flex: 0 0 50%;
+}
+.ft-actop-blk {
+	display: block;
+}
+.single-action-contnet {
+	margin-bottom: 17px;
+} 
+.footer-top-action-content-blk h2 {
+	font-size: 34px;
+	color: #fff;
+	font-weight: 800;
+	line-height: 36px;
+} 
+.call-to-action-blkk {
+	display: block;
+	text-align: left;
+}
+.rt-round-img {
+	max-width: 200px;
+	margin: 6px auto;
+	margin-top: 23px;
+}
+.rd-right-content h2 {
+	font-size: 40px;
+	color: #fff;
+	line-height: 43px;
+	font-weight: 800;
+}   
+.b-logo-all-wrp a img {
+	height: 20px;
+}
+ .hero-texts h2 {
+	font-size: 42px;
+	color: #fff;
+	font-weight: 800;
+	line-height: 42px;
+} 
+.signle-ft-blk {
+	max-width: 50%;
+	-webkit-box-flex: 0;
+	-ms-flex: 0 0 50%;
+	flex: 0 0 50%;
+	margin-bottom: 16px;
+}  
+.menu-open {
+	position: absolute;
+	right: 0;
+	top: 1px;
+	font-size: 24px;
+	color: #fff;
+	z-index: 9;
+	cursor: pointer;
+}
+.site-logo {
+	position: relative;
+	width: 100%;
+} 
+.border-2-blk {
+	margin-top: -27px;
+}  
+    
+    
+
+.menu-close {
+  display: block;
+}
+.menu-open {
+  display: block;
+}  
+    
+    
+    
+}
+
+
+
+
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+ 
+}
